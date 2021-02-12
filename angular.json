@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ng-oidc"
+  "defaultProject": "ng-oidc",
+  "cli": {
+    "analytics": false
+  }
 }
